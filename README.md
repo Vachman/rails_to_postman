@@ -14,7 +14,7 @@ And then execute:
 
 ## Usage
 
-TODO: rake export_routes
+    $ rake export_routes
 
 ## Contributing
 

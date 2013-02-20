@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["va4@me.com"]
   gem.description   = %q{Export rails routes to json for Postman REST Client}
   gem.summary       = %q{Convert Ruby on Rails application routes to Postman REST Client format end export to json file.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/Vachman/rails_to_postman"
 
   gem.files         = `git ls-files`.split($\)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
